@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SENG3080A01_RedditApp/static/css/main.38098c2d.css",
-    "main.js": "/SENG3080A01_RedditApp/static/js/main.2139226e.js",
+    "main.js": "/SENG3080A01_RedditApp/static/js/main.3e449c76.js",
     "static/js/787.8e2c5b73.chunk.js": "/SENG3080A01_RedditApp/static/js/787.8e2c5b73.chunk.js",
     "index.html": "/SENG3080A01_RedditApp/index.html",
     "main.38098c2d.css.map": "/SENG3080A01_RedditApp/static/css/main.38098c2d.css.map",
-    "main.2139226e.js.map": "/SENG3080A01_RedditApp/static/js/main.2139226e.js.map",
+    "main.3e449c76.js.map": "/SENG3080A01_RedditApp/static/js/main.3e449c76.js.map",
     "787.8e2c5b73.chunk.js.map": "/SENG3080A01_RedditApp/static/js/787.8e2c5b73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38098c2d.css",
-    "static/js/main.2139226e.js"
+    "static/js/main.3e449c76.js"
   ]
 }
