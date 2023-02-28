@@ -1,13 +1,32 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.posts article{
+    padding: 1px 1px;
+    background-color: #EEEEEE;    
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.posts article:nth-child(2n) {
+    background-color: #FFFFFF;
+}
+
+.posts article:hover{
+    background-color: #DDDDDD;
+}
+
+.posts article a{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.posts article p{
+    display: inline-block;
+    text-decoration: none;
+    padding: 0px 0px 0px 10px;
+}
+
+.button_bar input{
+    display: inline-block;
+    margin: 0px 10px 0px 0px;
+}
+
+.studInfo {
+    text-align: right;
 }
